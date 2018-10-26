@@ -6,15 +6,15 @@ The dynamics of urban particulate matter (PM) is complicated by the large number
 
 ## Particle sensors used in this project
 
-**shinyei ppd42ns
+* shinyei ppd42ns
 
-**samyoung dsm501a
+* amyoung dsm501a
 
-**plantower PMS5003
+* lantower PMS5003
 
-**Honeywell hpma115s0
+* Honeywell hpma115s0
 
-**Potsdam Sensors MEAS
+* Potsdam Sensors MEAS
 
 ## Arduino Code 
-https://github.com/nuralik/A-smart-mobile-platform-for-air-quality-monitoring/blob/master/NYSERDA_Project/NYSERDA_Project.ino
+[https://github.com/nuralik/A-smart-mobile-platform-for-air-quality-monitoring/blob/master/NYSERDA_Project/NYSERDA_Project.ino]
