@@ -14,10 +14,11 @@ The dynamics of urban particulate matter (PM) is complicated by the large number
 
 * Honeywell hpma115s0
 
-* [MEAS](https://www.potsdamsensors.com/)
+* [Potsdam Sensors](https://www.potsdamsensors.com/) MEAS
 
 ## Code 
 [Arduino Code](https://github.com/nuralik/Multi-PM-Sensors/blob/master/Arduino_Code/PM_sensors.ino)
 
 
 [Data Analysis](https://github.com/nuralik/A-smart-mobile-platform-for-air-quality-monitoring/blob/master/NACL%20TEST%20(1).ipynb)
+
