@@ -64,8 +64,8 @@ float voltageMax = 2.0; // Maximum output voltage from anemometer in mV.
 float windSpeedMax = 32; // Wind speed in meters/sec corresponding to maximum voltage
 
 
-int windRevC_Pin = 54; //plug in pin A1
-int windRevC_tmp = 55;//A2
+int windRevC_Pin = 55; //plug in pin A1
+int windRevC_tmp = 56;//A2
 
 int TMP_Therm_ADunits;  //temp termistor value from wind sensor
 float RV_Wind_ADunits;    //RV output from wind sensor 
